@@ -10,4 +10,5 @@ This repo contains:
 2. PartialDomination_Permutations.ipynb -> this is a Jupyter Notebook with the original permutation function that is not being used
 3. Visualization.ipynb -> this is a Jupyter Notebook that explores different visualizations and analysis from the collected data
 4. partial_domination_results_14_vertices.xlsx -> this is an Excel file containing data calculated for trees up to 14 vertices
-5. 
+5. df.csv -> dataframe saved as a csv
+6. trees_list.pkl -> trees_list as a pickle saved object
